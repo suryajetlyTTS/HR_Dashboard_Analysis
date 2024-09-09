@@ -1,0 +1,7 @@
+last refresh date time :
+    >    DateTime.LocalNow()
+onely date :
+    > Date=Format(Query1(Last Refresh],"MM/DD/YYYY")
+        next change date type(see on menu )
+filter icon settup:
+      click   filter icon>  view mwnu  >clik book mark  >>add >> clik icon >> format image >> action >>type  book mark >>your book mark name
